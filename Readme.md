@@ -7,7 +7,7 @@
 - HSV 
 - CMYK
 ## 다운로드
-! 파일 용량이 약 1.69GB입니다.
+⚠️ 파일 용량이 약 1.69GB입니다.
 - https://drive.google.com/drive/folders/1Fjsj4aMFApDVvETv8mtTknqaoo6LzPjP?usp=sharing
 
 > 파일용량이 커서 Google Drive 링크에서 확인할 수 있습니다.
